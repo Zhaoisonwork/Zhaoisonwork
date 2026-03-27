@@ -9,23 +9,9 @@
   - Linkedin: www.linkedin.com/in/zhaoguo-wei-282473306
     
 ## Zhao's GitHub Stats
-const stats = [
-  { label: 'Commits', value: '340+', color: '#2ecc71' },
-  { label: 'Projects', value: '12', color: '#3498db' },
-  { label: 'Experience', value: '2 Years', color: '#9b59b6' }
-];
+[![Stats](https://github-readme-stats.vercel.app/api?username=Zhaoisonwork&show_icons=true&theme=transparent&hide_border=true&title_color=3498db&text_color=ffffff&icon_color=3498db)](https://github.com/Zhaoisonwork)
 
-return (
-  <div style={{ display: 'flex', gap: '20px', justifyContent: 'center', marginTop: '40px' }}>
-    {stats.map(stat => (
-      <div key={stat.label} style={{ textAlign: 'center', borderBottom: `2px solid ${stat.color}`, padding: '10px 20px' }}>
-        <div style={{ fontSize: '0.8rem', color: '#aaa', textTransform: 'uppercase' }}>{stat.label}</div>
-        <div style={{ fontSize: '1.5rem', fontWeight: 'bold', color: '#fff' }}>{stat.value}</div>
-      </div>
-    ))}
-  </div>
-);
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zhaoisonwork&layout=compact&theme=transparent&hide_border=true&title_color=e74c3c&text_color=ffffff&icon_color=e74c3c)](https://github.com/Zhaoisonwork)
 
 ## You are my：
 ![Visitor Count](https://count.getloli.com/get/@Zhaoisonwork?theme=moebooru)
