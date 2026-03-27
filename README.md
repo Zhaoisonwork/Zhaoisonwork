@@ -11,8 +11,8 @@
 ## Zhao's GitHub Stats
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Zhaoisonwork&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
-## You are my：
-![Visitor Count](https://count.getloli.com/get/@Zhaoisonwork?theme=moebooru)
+## You 
+are my ![Visitor Count](https://count.getloli.com/get/@Zhaoisonwork?theme=moebooru)
 visitors! Thank you!!!!
 
 ## my skills:
