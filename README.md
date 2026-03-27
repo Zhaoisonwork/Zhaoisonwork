@@ -13,7 +13,7 @@
 [![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Zhaoisonwork&theme=dark&background=2d2d2d)](https://github.com/Zhaoisonwork)
 
 You are my：
-![Hits](https://hits.dwyl.com/Zhaoisonwork/my-resume.svg)
+![Visitor Count](https://count.getloli.com/get/@Zhaoisonwork?theme=moebooru)
 visitors! Thank you!!!!
 
 ## my skills:
