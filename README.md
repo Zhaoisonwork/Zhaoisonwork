@@ -9,11 +9,11 @@
   - Linkedin: www.linkedin.com/in/zhaoguo-wei-282473306
     
 ## Zhao's GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Iamnotsnowwhite&layout=compact&theme=tokyonight)
-![Zhao's stats](https://github-readme-stats.vercel.app/api?username=Iamnotsnowwhite&show_icons=true&theme=radical)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Zhaoisonwork&theme=dark&background=333333)](https://github.com/Zhaoisonwork)
+[![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Zhaoisonwork&theme=dark&background=2d2d2d)](https://github.com/Zhaoisonwork)
 
-You are my 
-![Visitor Count](https://profile-counter.glitch.me/Iamnotsnowwhite/count.svg)
+You are my：
+![Hits](https://hits.dwyl.com/Zhaoisonwork/my-resume.svg)
 visitors! Thank you!!!!
 
 ## my skills:
