@@ -9,13 +9,9 @@
   - Linkedin: www.linkedin.com/in/zhaoguo-wei-282473306
     
 ## Zhao's GitHub Stats
-![Commits](https://img.shields.io/github/commit-activity/m/Zhaoisonwork/my-resume?style=flat-square&color=blue&label=Commits)
+[![Zhao's Stats](https://github-readme-stats.vercel.app/api?username=Zhaoisonwork&show_icons=true&theme=transparent&title_color=ffffff&text_color=a9a9a9&bg_color=0,00000000)](https://github.com/Zhaoisonwork)
 
-![Top Language](https://img.shields.io/github/languages/top/Zhaoisonwork/my-resume?style=flat-square&color=orange)
-
-![Code Size](https://img.shields.io/github/languages/code-size/Zhaoisonwork/my-resume?style=flat-square&color=green)
-
-![Last Commit](https://img.shields.io/github/last-commit/Zhaoisonwork/my-resume?style=flat-square&color=rebeccapurple)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zhaoisonwork&layout=compact&theme=transparent&title_color=ffffff&text_color=a9a9a9&bg_color=0,00000000)](https://github.com/Zhaoisonwork)
 
 You are my：
 ![Visitor Count](https://count.getloli.com/get/@Zhaoisonwork?theme=moebooru)
